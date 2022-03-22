@@ -1,0 +1,16 @@
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\bin\Debug\net5.0\Task2.15(onbesh).exe
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\bin\Debug\net5.0\Task2.15(onbesh).deps.json
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\bin\Debug\net5.0\Task2.15(onbesh).runtimeconfig.json
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\bin\Debug\net5.0\Task2.15(onbesh).runtimeconfig.dev.json
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\bin\Debug\net5.0\Task2.15(onbesh).dll
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\bin\Debug\net5.0\Task2.15(onbesh).pdb
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\obj\Debug\net5.0\Task2.15(onbesh).csproj.AssemblyReference.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\obj\Debug\net5.0\Task2.15(onbesh).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\obj\Debug\net5.0\Task2.15(onbesh).AssemblyInfoInputs.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\obj\Debug\net5.0\Task2.15(onbesh).AssemblyInfo.cs
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\obj\Debug\net5.0\Task2.15(onbesh).csproj.CoreCompileInputs.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\obj\Debug\net5.0\Task2.15(onbesh).dll
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\obj\Debug\net5.0\refint\Task2.15(onbesh).dll
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\obj\Debug\net5.0\Task2.15(onbesh).pdb
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\obj\Debug\net5.0\Task2.15(onbesh).genruntimeconfig.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.15(onbesh)\obj\Debug\net5.0\ref\Task2.15(onbesh).dll

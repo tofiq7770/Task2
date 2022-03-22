@@ -1,0 +1,16 @@
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\bin\Debug\net5.0\Task2.9.exe
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\bin\Debug\net5.0\Task2.9.deps.json
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\bin\Debug\net5.0\Task2.9.runtimeconfig.json
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\bin\Debug\net5.0\Task2.9.runtimeconfig.dev.json
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\bin\Debug\net5.0\Task2.9.dll
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\bin\Debug\net5.0\Task2.9.pdb
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\obj\Debug\net5.0\Task2.9.csproj.AssemblyReference.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\obj\Debug\net5.0\Task2.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\obj\Debug\net5.0\Task2.9.AssemblyInfoInputs.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\obj\Debug\net5.0\Task2.9.AssemblyInfo.cs
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\obj\Debug\net5.0\Task2.9.csproj.CoreCompileInputs.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\obj\Debug\net5.0\Task2.9.dll
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\obj\Debug\net5.0\refint\Task2.9.dll
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\obj\Debug\net5.0\Task2.9.pdb
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\obj\Debug\net5.0\Task2.9.genruntimeconfig.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.9\obj\Debug\net5.0\ref\Task2.9.dll

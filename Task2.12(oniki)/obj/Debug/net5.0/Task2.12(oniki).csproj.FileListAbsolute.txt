@@ -1,0 +1,16 @@
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\bin\Debug\net5.0\Task2.12(oniki).exe
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\bin\Debug\net5.0\Task2.12(oniki).deps.json
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\bin\Debug\net5.0\Task2.12(oniki).runtimeconfig.json
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\bin\Debug\net5.0\Task2.12(oniki).runtimeconfig.dev.json
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\bin\Debug\net5.0\Task2.12(oniki).dll
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\bin\Debug\net5.0\Task2.12(oniki).pdb
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\obj\Debug\net5.0\Task2.12(oniki).csproj.AssemblyReference.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\obj\Debug\net5.0\Task2.12(oniki).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\obj\Debug\net5.0\Task2.12(oniki).AssemblyInfoInputs.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\obj\Debug\net5.0\Task2.12(oniki).AssemblyInfo.cs
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\obj\Debug\net5.0\Task2.12(oniki).csproj.CoreCompileInputs.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\obj\Debug\net5.0\Task2.12(oniki).dll
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\obj\Debug\net5.0\refint\Task2.12(oniki).dll
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\obj\Debug\net5.0\Task2.12(oniki).pdb
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\obj\Debug\net5.0\Task2.12(oniki).genruntimeconfig.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.12(oniki)\obj\Debug\net5.0\ref\Task2.12(oniki).dll

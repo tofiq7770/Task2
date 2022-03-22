@@ -1,0 +1,16 @@
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\bin\Debug\net5.0\Task2.6.exe
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\bin\Debug\net5.0\Task2.6.deps.json
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\bin\Debug\net5.0\Task2.6.runtimeconfig.json
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\bin\Debug\net5.0\Task2.6.runtimeconfig.dev.json
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\bin\Debug\net5.0\Task2.6.dll
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\bin\Debug\net5.0\Task2.6.pdb
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\obj\Debug\net5.0\Task2.6.csproj.AssemblyReference.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\obj\Debug\net5.0\Task2.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\obj\Debug\net5.0\Task2.6.AssemblyInfoInputs.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\obj\Debug\net5.0\Task2.6.AssemblyInfo.cs
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\obj\Debug\net5.0\Task2.6.csproj.CoreCompileInputs.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\obj\Debug\net5.0\Task2.6.dll
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\obj\Debug\net5.0\refint\Task2.6.dll
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\obj\Debug\net5.0\Task2.6.pdb
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\obj\Debug\net5.0\Task2.6.genruntimeconfig.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.6\obj\Debug\net5.0\ref\Task2.6.dll

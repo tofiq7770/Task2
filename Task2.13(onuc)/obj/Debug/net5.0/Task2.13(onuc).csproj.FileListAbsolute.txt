@@ -1,0 +1,16 @@
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\bin\Debug\net5.0\Task2.13(onuc).exe
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\bin\Debug\net5.0\Task2.13(onuc).deps.json
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\bin\Debug\net5.0\Task2.13(onuc).runtimeconfig.json
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\bin\Debug\net5.0\Task2.13(onuc).runtimeconfig.dev.json
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\bin\Debug\net5.0\Task2.13(onuc).dll
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\bin\Debug\net5.0\Task2.13(onuc).pdb
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\obj\Debug\net5.0\Task2.13(onuc).csproj.AssemblyReference.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\obj\Debug\net5.0\Task2.13(onuc).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\obj\Debug\net5.0\Task2.13(onuc).AssemblyInfoInputs.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\obj\Debug\net5.0\Task2.13(onuc).AssemblyInfo.cs
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\obj\Debug\net5.0\Task2.13(onuc).csproj.CoreCompileInputs.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\obj\Debug\net5.0\Task2.13(onuc).dll
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\obj\Debug\net5.0\refint\Task2.13(onuc).dll
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\obj\Debug\net5.0\Task2.13(onuc).pdb
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\obj\Debug\net5.0\Task2.13(onuc).genruntimeconfig.cache
+C:\Users\tofiq\source\repos\task2_Solution\Task2.13(onuc)\obj\Debug\net5.0\ref\Task2.13(onuc).dll
